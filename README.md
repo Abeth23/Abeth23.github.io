@@ -5,16 +5,15 @@
 # Projects
 
 # Socials
-<h1 align="center">hello</h1>
+<h1 align="center">WEBSITE DEVELOPMENT</h1>
 # Static site generator
 ## Markdown
-### programming
-#### hello
+### Deployment of projects
+#### Using github hackerspace-pesu Markdown101
 
-** hello world **
-~~~ vivobook ~~~
+
 -- code represented with syntax highlighting --
-` in a block`
+` in a block `
 ***dell computers***
 
 col 1        |        col 2
@@ -35,4 +34,4 @@ languages
 
 [My website](https://github.com/)
 
-align "center" Hello
+
