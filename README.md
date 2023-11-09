@@ -7,6 +7,7 @@
 # Socials
 <h1 align="center">WEBSITE DEVELOPMENT</h1>
 # Static site generator
+
 ## Markdown
 ### Deployment of projects
 #### Using github hackerspace-pesu Markdown101
