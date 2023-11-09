@@ -11,7 +11,7 @@
 ### programming
 #### hello
 
-**hello world**
+** hello world **
 ~~~ vivobook ~~~
 -- code represented with syntax highlighting --
 ` in a block`
